@@ -1,0 +1,25 @@
+{
+  "name": "promise-helpers",
+  "version": "1.0.0",
+  "description": "Q Promise Library helpers for making it easier to deal with and chain node callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "promise",
+    "q",
+    "helpers",
+    "callback"
+  ],
+  "author": "Bret Sherman <bretsherman@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.1.2",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
