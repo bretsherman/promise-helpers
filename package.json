@@ -1,5 +1,5 @@
 {
-  "name": "promise-helpers",
+  "name": "promise-node-helpers",
   "version": "1.0.0",
   "description": "Q Promise Library helpers for making it easier to deal with and chain node callbacks",
   "main": "index.js",
